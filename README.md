@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Sinha</h1>
 <h3 align="center">Undergrad at IIT Patna | Tech, Finance & AI Enthusiast | Seeking Synergies in the Intersection |</h3>
 
-<img alighn = "right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align = "right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinha-12&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinha-12" /> </p>
 
