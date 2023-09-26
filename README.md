@@ -21,7 +21,7 @@
   
 - 🔎 I'm also looking to explore the field of Quantitative Finance and Contribute to Open Source
 
-- 👨‍💻 All of my projects are available at [< yet to build >](< yet to build >)
+- 👨‍💻 All of my projects are available at (https://harshmamta12.wixsite.com/harsh-sinha)
 
 - 📝 I'm thinking to document my journey on [https://hashnode.com/@harshsinha12](https://hashnode.com/@harshsinha12)
 
