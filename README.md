@@ -12,6 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinha-12&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinha-12" /> </p>
 
+[![An image of @harshsinha12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshsinha12)](https://holopin.io/@harshsinha12)
 
 <p align="left"> <a href="https://twitter.com/harsh_sinha1209" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_sinha1209?logo=twitter&style=for-the-badge" alt="harsh_sinha1209" /></a> </p>
 
