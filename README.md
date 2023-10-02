@@ -36,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/harshsinha_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshsinha_12" height="30" width="40" /></a>
+<a href="[https://dev.to/harshsinha_12](https://dev.to/harshsinha12)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshsinha_12" height="30" width="40" /></a>
 <a href="https://twitter.com/harsh_sinha1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_sinha1209" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-sinha-77b140232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-sinha-77b140232" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshsinha12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshsinha12" height="30" width="40" /></a>
