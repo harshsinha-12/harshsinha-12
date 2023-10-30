@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently an Undergraduate Student **at IIT-Patna** currently pursuing my Bachelor's in Computational Science and Data Analytics.
 
-- 🌱 I’m currently learning Python and C++ **Striver's A-Z DSA Course, Python for Everybody by the University of Michigan**
+- 🌱 I’m currently learning Python and C++ **Striver's A-Z DSA Course, Python for Everybody by the University of Michigan and some Data Analysis**
   
 - 🔎 I'm also looking to explore the field of Quantitative Finance and Contribute to Open Source
 
