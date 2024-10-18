@@ -11,7 +11,7 @@ I am proficient in Python, data structures, algorithms, machine learning, and da
 * ✉️  You can contact me at [sinha.harshsep@gmail.com](mailto:sinha.harshsep@gmail.com)
 * 🚀  I'm currently working on [building proof of concept in bits and pieces for my PMS](http://github.com/harshsinha-12/Stock-Predictor)
 * 🧠  I'm learning DSA, ML/DL/NLP, PowerBI and Web Development.
-* 🤝  I'm open to collaborating on Projects related to Finance and Data Science.
+* 🤝  I'm open to collaborating on Finance and Data Science projects.
 * ⚡  I'm always up for a talk on tech, finance or startups.
 
 <a href="https://www.github.com/harshsinha-12" target="_blank" rel="noreferrer"><img
