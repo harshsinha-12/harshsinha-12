@@ -7,10 +7,10 @@ Undergrad at IIT Patna | Tech, Finance & AI Enthusiast | Seeking Synergies in th
 I am proficient in Python, data structures, algorithms, machine learning, and data visualization. Passionate about solving real-world problems through projects. Actively engaged in workshops and competitions, gaining exposure to entrepreneurship, financial literacy, and open-source development. Eager to connect and learn from like-minded professionals and enthusiasts.
 
 * 🌍  I'm based in India
+* 💼 I'm currently working as the Founder's Office at [Multibagg AI](https://www.multibagg.ai)
 * 🖥️  See my portfolio at [Everything about me](http://bento.me/harshsinha)
 * ✉️  You can contact me at [sinha.harshsep@gmail.com](mailto:sinha.harshsep@gmail.com)
-* 🚀  I'm currently working on [building proof of concept in bits and pieces for my PMS](http://github.com/harshsinha-12/Stock-Predictor)
-* 🧠  I'm learning DSA, ML/DL/NLP, PowerBI and Web Development.
+* 🧠  I'm learning DSA, Data Science and Web Development.
 * 🤝  I'm open to collaborating on Finance and Data Science projects.
 * ⚡  I'm always up for a talk on tech, finance or startups.
 
