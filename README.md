@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Undergrad at IIT Patna | Tech, Finance & AI Enthusiast | Seeking Synergies in the Intersection |
 ------------------------------------------------------------------------------------------------
 
-I am proficient in Python, data structures, algorithms, machine learning, and data visualization. Passionate about solving real-world problems through projects. Actively engaged in workshops and competitions, gaining exposure to entrepreneurship, financial literacy, and open-source development. Eager to connect and learn from like-minded professionals and enthusiasts.
+I am proficient in Python, data structures, algorithms, machine learning, and visualisation. Passionate about solving real-world problems through projects. Actively engaged in workshops and competitions, gaining exposure to entrepreneurship, financial literacy, and open-source development. Eager to connect and learn from like-minded professionals and enthusiasts.
 
 * 🌍  I'm based in India
 * 💼 I'm currently working as the Founder's Office at [Multibagg AI](https://www.multibagg.ai)
@@ -15,8 +15,8 @@ I am proficient in Python, data structures, algorithms, machine learning, and da
 * ⚡  I'm always up for a talk on tech, finance or startups.
 
 <a href="https://www.github.com/harshsinha-12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/harshsinha-12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/harsh_sinha1209" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harsh_sinha1209?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/harshsinha-12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sinhaharsh12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sinhaharsh12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
